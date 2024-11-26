@@ -11,4 +11,4 @@ Optimal Locations Map.jpg is an image of the Optimal Locations Map.lpkx feature 
 Constraint Map.jpg is the overlay of the community districts not that are Unideal layed on top of the Optimal areas of Calgary for tree planting. 
 Calgary_Equity_Index_Overlay_Statistics_20241125.csv is a csv file that I used to compared meadian income distribution to tree densities in Calgary.
 Green Equality.ppkx is the packed ArcGIS pro map containing all feature layers.
-The creative liscense on this repository is 
+The creative liscense on this repository is a Creative Commons CC0 Public Domain Dedication which waives copyright interest in a work you've created and dedicates it to the world-wide public domain.
